@@ -11,7 +11,9 @@
 } */
 
 body{
-			background-color: lightgrey;
+			background: url("../img/milkandcookies.gif");
+			background-size: cover;
+
 }
 
 .img-circle{
@@ -26,7 +28,7 @@ body{
 
 }
 
-/* p{
-	padding-bottom: 10px;
+h1{
+			color: red;
 
-} */
+}
