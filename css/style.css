@@ -13,3 +13,20 @@
 body{
 			background-color: lightgrey;
 }
+
+.img-circle{
+			width: 150px;
+			height: 150px;
+}
+
+.card-block{
+			border: solid;
+			border-color: green; 
+			border-width: 2px;
+
+}
+
+/* p{
+	padding-bottom: 10px;
+
+} */
